@@ -1,0 +1,23 @@
+p {
+	color: #ffff00;
+	font-family: "Microsoft Sans Serif", Tahoma, sans-serif;
+
+}
+body {
+	background-color: #0000ff;
+
+}
+
+.weird {
+	color: #00ff00;
+	font-family: "Microsoft Sans Serif", Tahoma, sans-serif;
+	text-shadow: 2px 2px #ffff00;
+	font-weight: bold;
+}
+
+.weirdsmall {
+	color: #00ff00;
+	font-family: "Microsoft Sans Serif", Tahoma, sans-serif;
+	text-shadow: 1px 1px 1px #ffff00;
+	font-weight: bold;
+}
