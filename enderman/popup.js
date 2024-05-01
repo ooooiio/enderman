@@ -1,12 +1,12 @@
 
-var screeny = screen.height
-var screenx = screen.width
-var newx = 0
-var newy = 0
+var screeny = screen.height;
+var screenx = screen.width;
+var newx = 0;
+var newy = 0;
 function teleport(){
-	newx = screenx - Math.floor((Math.random() * screenx))
-	newy = screeny - Math.floor((Math.random() * screeny))
-	this.moveTo(newx, newy)
+	newx = screenx - Math.floor((Math.random() * screenx));
+	newy = screeny - Math.floor((Math.random() * screeny));
+	this.moveTo(newx, newy);
 }
 
 document.addEventListener("DOMContentLoaded", function(){
@@ -18,4 +18,4 @@ document.addEventListener("DOMContentLoaded", function(){
 	})
 
 })
-happy = setInterval(teleport, 250)
+happy = setInterval(teleport, 250);
