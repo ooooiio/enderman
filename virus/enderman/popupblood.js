@@ -31,13 +31,21 @@ document.addEventListener("DOMContentLoaded", function(){
 		if (keyvalue.key === "Control")
 		{
 			window.open("popupbloodmite.html", "_blank", "popup=true, innerHeight=290, innerWidth=215, menubar=no");
+			window.open("popupbloodmite.html", "_blank", "popup=true, innerHeight=290, innerWidth=215, menubar=no");
 		}
 		else if (keyvalue.key === "Alt" )
 		{
 			window.open("popupbloodmite.html", "_blank", "popup=true, innerHeight=290, innerWidth=215, menubar=no");
+			window.open("popupbloodmite.html", "_blank", "popup=true, innerHeight=290, innerWidth=215, menubar=no");
 		}
 		else if (keyvalue.key === "Meta" )
 		{
+			window.open("popupbloodmite.html", "_blank", "popup=true, innerHeight=290, innerWidth=215, menubar=no");
+			window.open("popupbloodmite.html", "_blank", "popup=true, innerHeight=290, innerWidth=215, menubar=no");
+		}
+		else if (keyvalue.key === "w" )
+		{
+			window.open("popupbloodmite.html", "_blank", "popup=true, innerHeight=290, innerWidth=215, menubar=no");
 			window.open("popupbloodmite.html", "_blank", "popup=true, innerHeight=290, innerWidth=215, menubar=no");
 		}
 	})
