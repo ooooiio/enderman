@@ -1,3 +1,11 @@
+
+@keyframes sizechange {
+	0% {font-size: 24pt;}
+	50% {font-size: 12pt;}
+	100% {font-size: 24pt;}
+
+}
+
 p {
 	color: #ffff00;
 	font-family: "Microsoft Sans Serif", Tahoma, sans-serif;
