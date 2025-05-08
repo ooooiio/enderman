@@ -6,6 +6,12 @@
 
 }
 
+#titlelabel {
+	animation: sizechange 0.5s infinite;
+	color:#ffff00;
+	text-align: center;
+}
+
 p {
 	color: #ffff00;
 	font-family: "Microsoft Sans Serif", Tahoma, sans-serif;
